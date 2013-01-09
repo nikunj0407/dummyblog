@@ -8,6 +8,7 @@ gem 'rails', '3.2.9'
 gem 'pg'
 gem 'therubyracer'
 gem 'libv8'
+gem 'thin'
 gem 'execjs'
 
 
